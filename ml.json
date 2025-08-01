@@ -1,0 +1,37 @@
+
+    {
+  "heroes": [
+    {
+      "name": "Fanny",
+      "role": "Assassin",
+      "specialty": "Chase/Burst",
+      "difficulty": 10
+    },
+    {
+      "name": "Kagura",
+      "role": "Mage",
+      "specialty": "Poke/Reap",
+      "difficulty": 8
+    },
+    {
+      "name": "Karina",
+      "role": "Assassin/Mage",
+      "specialty": "Reap/Burst",
+      "difficulty": 6
+    },
+    {
+      "name": "Hanabi",
+      "role": "Marksman",
+      "specialty": "Reap/Poke",
+      "difficulty": 5
+    },
+    {
+      "name": "Beatrix",
+      "role": "Marksman",
+      "specialty": "Burst/Damage",
+      "difficulty": 9
+    }
+  ]
+}
+
+   
