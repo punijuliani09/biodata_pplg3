@@ -1,0 +1,25 @@
+{
+    "nama" : "Fanny Juliani",
+    "tempat_lahir" : "Bandung",
+    "tanggal_lahir" : "2009-15-07",
+    "uang" : "true",
+    "alamat" : {
+        "jalan" : "JL. Baru Raya RT 03 RW 03",
+        "desa" : "Cangkuang",
+        "kacamatan" : "Dayeuhkolot"
+    },
+    "hobi" : [
+        "Masak",
+        "Gaming"
+        "Nonton"
+
+    ],
+    "Kontak" : {
+        "email" : "fannyjulianimarhas@gmail.com",
+        "Whatsapp" : "085876308656",
+        "Intagram" : "vamxyvn",
+        "github" : "fannyjuliani09,"
+
+    }
+
+}
